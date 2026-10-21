@@ -18,9 +18,9 @@ abstract: |
 summary: "基于四川、湖北 675 名大学生的数据，考察死亡反思对存在性幸福感的影响及关系自尊的中介作用。"
 
 tags:
-  - 死亡反思
-  - 存在性幸福感
-  - 关系自尊
+  - death reflection
+  - existential well-being
+  - relational self-esteem
 
 featured: false
 ---
