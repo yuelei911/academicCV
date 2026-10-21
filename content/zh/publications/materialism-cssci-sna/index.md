@@ -27,7 +27,7 @@ tags:
   - CSSCI
 
 links:
-  - type: doi
+  - type: 文章官网链接
     url: "https://doi.org/10.35534/pc.0205027"
 
 featured: false

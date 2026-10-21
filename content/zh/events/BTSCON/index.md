@@ -37,4 +37,4 @@ links:
 
 **引用格式**
 
-Yue, L*., Zhang, W.-W., Wang, C.-X., Zuo, X.-N., & Hu, C.-P. (2025-10-08). The WEIRD problem in a “non-WEIRD” context: A registered meta-research on the representativeness of human subjects in Chinese psychological research. BTSCON. https://m.youtube.com/watch?v=qDo_eZeTPsU&list=PLQuhNyD_aJ1hPIIiosuMPe3uuqiIOpjZZ&index=37&pp=iAQB
+Yue, L., Zhang, W.-W., Wang, C.-X., Zuo, X.-N., & Hu, C.-P. (2025-10-08). The WEIRD problem in a “non-WEIRD” context: A registered meta-research on the representativeness of human subjects in Chinese psychological research. BTSCON. https://m.youtube.com/watch?v=qDo_eZeTPsU&list=PLQuhNyD_aJ1hPIIiosuMPe3uuqiIOpjZZ&index=37&pp=iAQB

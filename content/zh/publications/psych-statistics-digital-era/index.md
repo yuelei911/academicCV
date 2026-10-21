@@ -14,7 +14,6 @@ publication:
   short_name: "社会科学报"
   pages: "第5版"
 
-summary: "面对数智时代的特点和要求，心理统计学作为心理学的基础方法课之一，需要率先快速调整。"
 
 tags:
   - 心理统计学
@@ -23,7 +22,7 @@ tags:
 featured: false
 
 links:
-  - type: pdf
+  - type: 文章PDF
     url: featured.pdf
     label: 全文 PDF
 ---
