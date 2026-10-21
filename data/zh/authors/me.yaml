@@ -1,0 +1,44 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: 岳磊
+  given: 磊
+  family: 岳
+  alternate: Yue Lei
+  pronunciation:
+status:
+  icon: "🎓"
+role: 博士生
+bio: |
+  我是岳磊，我从2015年进入心理学这一领域。硕士研究生期间，我主要关注物质主义价值观。在硕士研究生后期，我的研究兴趣开始转向科学学。近年来，我主要关注心理学领域的开放科学、元科学与科学学。
+
+affiliations: []
+links: []
+
+interests:
+  - 开放科学
+  - 元科学
+  - 科学学
+
+education:
+  - degree: 博士生
+    institution: 南京师范大学
+    area: 心理学（开放科学与元科学）
+    year: "2026 – 至今"
+
+  - degree: 硕士
+    institution: 华中师范大学
+    area: 人格与社会心理学
+    year: "2019 – 2022"
+    summary: 研究方向：人格与社会心理学
+
+  - degree: 本科
+    institution: 绵阳师范学院
+    area: 心理学
+    year: "2015 – 2019"
+
+experience: []
+skills: []
+languages: []
+awards: []

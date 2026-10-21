@@ -1,0 +1,8 @@
+- id: awards
+  translation: 荣誉
+- id: status
+  translation: 状态
+- id: peer_reviewed
+  translation: 同行评审
+- id: open_access
+  translation: 开放获取

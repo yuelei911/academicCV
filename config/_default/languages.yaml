@@ -1,22 +1,29 @@
 # Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+#   Documentation: https://docs.hugoblox.com/guide/going-live/language/
+#
+# Chinese (Simplified) is the default language and is served from the site root.
+# English is served from /en/.
 
-# Default language
+zh:
+  locale: zh-CN
+  label: 简体中文
+  contentDir: content/zh
+  weight: 1
+  params:
+    hugoblox:
+      identity:
+        name: "岳磊"
+        tagline: "开放科学 · 元科学 · 科学学"
+        description: "岳磊，心理学在读博士生，研究开放科学、元科学与科学学。"
+
 en:
   locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  locale: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  label: English
+  contentDir: content/en
+  weight: 2
+  params:
+    hugoblox:
+      identity:
+        name: "Yue Lei"
+        tagline: "Open Science · Metascience · Science of Science"
+        description: "Yue Lei, PhD student in psychology, researching open science, metascience, and the science of science."

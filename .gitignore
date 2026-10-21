@@ -45,6 +45,9 @@ node_modules/
 pagefind/
 static/pagefind/
 
+# Local backup of removed demo content (not built by Hugo)
+_archive/
+
 # ============================================================================
 # Operating System
 # ============================================================================

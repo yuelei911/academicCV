@@ -1,0 +1,13 @@
+---
+title: 科普
+cms_exclude: true
+#url: popular-science
+
+# 视图
+view: card
+
+# 可选封面图片（相对于 assets/media/ 文件夹）
+image:
+  caption: ''
+  filename: ''
+---

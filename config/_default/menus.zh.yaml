@@ -1,0 +1,19 @@
+# 导航菜单（简体中文）
+#   url 为 `#` 开头的锚点会链接到当前语言首页的对应区块。
+
+main:
+  - name: 简介
+    url: /
+    weight: 10
+  - name: 学术出版物
+    url: /#papers
+    weight: 11
+  - name: 报告
+    url: /#talks
+    weight: 12
+  - name: 科普
+    url: /#popular-science
+    weight: 13
+  - name: 动态
+    url: /#news
+    weight: 14
