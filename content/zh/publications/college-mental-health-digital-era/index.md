@@ -10,7 +10,6 @@ publication_types: ["报纸文章"]
 publication:
   name: "社会科学报"
   short_name: "社会科学报"
-  pages: "第5版"
 
 
 tags:
