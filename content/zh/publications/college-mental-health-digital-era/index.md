@@ -12,7 +12,6 @@ publication:
   short_name: "社会科学报"
   pages: "第5版"
 
-summary: "数智时代，大学生心理健康教育要在教育的内容和手段方面推陈出新。"
 
 tags:
   - 心理健康教育
@@ -22,9 +21,9 @@ tags:
 featured: false
 
 links:
-  - type: pdf
+  - type: 文章PDF
     url: featured.pdf
-    label: 全文 PDF
+    label: 文章PDF
 ---
 
 数智化已经成为大学生主要生活方式特征之一。以 ChatGPT、DeepSeek 为代表的人工智能如雨后春笋般涌现，标志着社会已经从数字时代走向数智时代，这要求大学生除了主动拥抱数智技术外，还要面对数智时代给心理健康带来的挑战。

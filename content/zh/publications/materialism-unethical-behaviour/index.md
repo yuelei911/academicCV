@@ -26,6 +26,7 @@ tags:
 links:
   - type: 文章官网链接
     url: "https://doi.org/10.1111/ajsp.12642"
+    label: 文章官网链接
 
 featured: false
 ---

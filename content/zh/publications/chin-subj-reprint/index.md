@@ -34,3 +34,6 @@ featured: false
 
 ---
 
+**引用格式**
+
+Yue, L., Zuo, X.-N., & Hu, C.-P. (2023) The WEIRD problem in a “non-WEIRD” context: A meta-research on the representativeness of human subjects in Chinese psychological research, in principle acceptance of Version 7 by Peer Community in Registered Reports. https://osf.io/ehw54
