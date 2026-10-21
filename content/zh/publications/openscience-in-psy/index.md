@@ -38,3 +38,7 @@ links:
     url: "https://chinaxiv.org/abs/202605.00198v4"
     label: ChinaXiv
 ---
+
+**引用格式**
+
+岳磊, 左西年, 胡传鹏. (2026). 开放科学实践的草根路径：以心理与脑科学为例. 中国科学院科技论文预发布平台. https://chinaxiv.org/abs/202605.00198

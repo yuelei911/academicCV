@@ -24,3 +24,7 @@ tags:
 
 featured: false
 ---
+
+**引用格式**
+
+Yue, L. (2025). The influence of death reflection on existential well-being: The mediating role of relational self-esteem. *Review in Psychology Research*, 11(1), 1–6. http://www.ivypub.org/RPR/paperinfo/62387.shtml

@@ -12,6 +12,8 @@ date: "2024-08-19"
 publication_types: ["article-journal"]
 publication:
   name: "Asian Journal of Social Psychology"
+  volume: 27
+  pages: 844-855
 funding:
   - funder: "China Scholarship Council"
     grant: "202006775020"
@@ -35,3 +37,7 @@ links:
 
 featured: false
 ---
+
+**引用格式**
+
+Yue, L., Zeng, X. L., Li, J. (2024). The effect of materialism on unethical behavior: The mediating role of self-control. *Asian Journal of Social Psychology*, 27, 844–855. https://doi.org/10.1111/ajsp.12642 (SSCI, Q3, Wiley Top cited article 2025)
