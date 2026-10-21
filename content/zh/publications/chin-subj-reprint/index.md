@@ -32,6 +32,11 @@ tags:
 
 featured: false
 
+links:
+  - type: preprint
+    url: "https://chinaxiv.org/abs/202605.00198v4"
+    label: PsyArXiv
+
 ---
 
 **引用格式**

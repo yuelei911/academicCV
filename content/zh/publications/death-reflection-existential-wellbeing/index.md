@@ -22,6 +22,13 @@ tags:
   - existential well-being
   - relational self-esteem
 
+
+links:
+  - type: 文章官网链接
+    url: "http://www.ivypub.org/RPR/paperinfo/62387.shtml"
+    label: 文章官网链接
+    
+
 featured: false
 ---
 
