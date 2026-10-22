@@ -1,0 +1,26 @@
+{{ if .IsHome }}
+  {{ $person := dict
+    "@context" "https://schema.org"
+    "@type" "Person"
+    "url" .Permalink
+    "sameAs" (slice "https://github.com/yuelei911" "https://orcid.org/0000-0002-1077-5892")
+  }}
+  {{ if eq site.Language.Lang "zh" }}
+    {{ $person = merge $person (dict
+      "name" "岳磊"
+      "alternateName" "Yue Lei"
+      "jobTitle" "心理学博士生"
+      "affiliation" (dict "@type" "Organization" "name" "南京师范大学")
+      "knowsAbout" (slice "开放科学" "元科学" "科学学" "心理学")
+    ) }}
+  {{ else }}
+    {{ $person = merge $person (dict
+      "name" "Yue Lei"
+      "alternateName" "岳磊"
+      "jobTitle" "PhD Student in Psychology"
+      "affiliation" (dict "@type" "Organization" "name" "Nanjing Normal University")
+      "knowsAbout" (slice "Open Science" "Metascience" "Science of Science" "Psychology")
+    ) }}
+  {{ end }}
+  <script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
+{{ end }}

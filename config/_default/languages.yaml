@@ -11,6 +11,8 @@ zh:
   weight: 1
   params:
     hugoblox:
+      seo:
+        title: "岳磊 | 心理学博士生 · 开放科学 · 元科学"
       identity:
         name: "岳磊"
         tagline: "开放科学 · 元科学 · 科学学"
@@ -23,6 +25,8 @@ en:
   weight: 2
   params:
     hugoblox:
+      seo:
+        title: "Yue Lei (岳磊) | PhD Student in Psychology · Open Science · Metascience"
       identity:
         name: "Yue Lei"
         tagline: "Open Science · Metascience · Science of Science"
