@@ -11,18 +11,39 @@ status:
   icon: "🎓"
 role: PhD Student in Psychology
 bio: |
-  Yue Lei is a PhD student in psychology, focusing on open science,
-  metascience, and the science of science.
+  I am Yue Lei, and I entered the field of psychology in 2015. During my master's studies, my research interest was materialistic values. For various reasons, starting in 2021, my research interests gradually shifted to the science of science.
+  I have always believed that scientific development needs people to venture into uncharted territory, but it also needs people to stop, look back at the path already traveled, and reflect on the current problems of scientific development. Therefore, in recent years I have focused on open science and metascience in psychology.
+  I hope that you, visiting my homepage, will also find something to think about in the moments when you help psychology move forward.
 
 affiliations: []
-links: []
+links:
+  - icon: brands/github
+    url: https://github.com/yuelei911
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-1077-5892
 
 interests:
   - Open Science
   - Metascience
   - Science of Science
 
-education: []
+education:
+  - degree: PhD Student
+    institution: Nanjing Normal University
+    area: Psychology (Open Science and Metascience)
+    year: "2026 – Present"
+
+  - degree: Master's
+    institution: Central China Normal University
+    area: Personality and Social Psychology
+    year: "2019 – 2022"
+    summary: Research area: Personality and Social Psychology
+
+  - degree: Bachelor's
+    institution: Mianyang Normal University
+    area: Psychology
+    year: "2015 – 2019"
+
 experience: []
 skills: []
 languages: []

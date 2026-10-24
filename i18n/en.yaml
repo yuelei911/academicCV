@@ -1,0 +1,8 @@
+- id: awards
+  translation: Awards
+- id: status
+  translation: Status
+- id: peer_reviewed
+  translation: Peer Reviewed
+- id: open_access
+  translation: Open Access

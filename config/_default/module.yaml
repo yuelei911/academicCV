@@ -27,3 +27,16 @@ mounts:
     target: layouts
   - source: assets
     target: assets
+  # Reuse the images from the Chinese page bundles on the English site
+  - source: content/zh/publications
+    target: assets/media/en/publications
+    files:
+      - '**/featured.*'
+  - source: content/zh/events
+    target: assets/media/en/events
+    files:
+      - '**/featured.*'
+  - source: content/zh/popular-science
+    target: assets/media/en/popular-science
+    files:
+      - '**/featured.*'

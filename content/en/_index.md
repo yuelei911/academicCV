@@ -12,7 +12,7 @@ sections:
       username: me
       text: ''
       headings:
-        about: ''
+        about: 'About Me'
         education: ''
         interests: ''
     design:
@@ -29,16 +29,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I am a PhD student in psychology, focusing on open science, metascience, and the science of science.
-
-        I welcome collaboration and discussion 😃
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
@@ -53,16 +43,25 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - events
     design:
       view: card
   - block: collection
+    id: popular-science
+    content:
+      title: Popular Science
+      filters:
+        folders:
+          - popular-science
+    design:
+      view: card
+  - block: collection
     id: news
     content:
-      title: Recent News
+      title: Latest News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
