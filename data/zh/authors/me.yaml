@@ -17,6 +17,9 @@ bio: |
 
 affiliations: []
 links:
+  - icon: envelope
+    url: mailto:yniannian911@outlook.com
+    label: 邮箱
   - icon: brands/github
     url: https://github.com/yuelei911
   - icon: academicons/orcid
