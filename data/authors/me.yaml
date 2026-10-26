@@ -22,11 +22,6 @@ links:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1077-5892
 
-interests:
-  - Open Science
-  - Metascience
-  - Science of Science
-
 education:
   - degree: PhD Student
     institution: Nanjing Normal University
@@ -37,7 +32,7 @@ education:
     institution: Central China Normal University
     area: Personality and Social Psychology
     year: "2019 – 2022"
-    summary: Research area: Personality and Social Psychology
+    area: Personality and Social Psychology
 
   - degree: Bachelor's
     institution: Mianyang Normal University
