@@ -62,6 +62,8 @@ jobs:
     needs: config
     if: github.repository_owner != 'HugoBlox'
     uses: ./.github/workflows/build.yml
+    with:
+      deploy-host: ${{ needs.config.outputs.deploy-host }}
     secrets: inherit
 
   # Deploy website to GitHub Pages hosting (only if configured)

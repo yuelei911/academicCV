@@ -14,7 +14,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
+summary: "Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required."
 abstract: |
   Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
 
