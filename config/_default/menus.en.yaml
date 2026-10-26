@@ -16,6 +16,6 @@ main:
   - name: Popular Science
     url: /#popular-science
     weight: 13
-  - name: News
+  - name: Blog
     url: /#news
     weight: 14

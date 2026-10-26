@@ -61,7 +61,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: 最新动态
+      title: 最新博客
       subtitle: ''
       text: ''
       # 要展示的页面类型，例如 post、talk、publication……
