@@ -1,5 +1,5 @@
 ---
-title: "The Current State of Materialism Research in China: A Social Network Analysis Based on CSSCI"
+title: "The current state of materialism research in China: A social network analysis based on CSSCI"
 authors:
   - me
   - Jing Li
@@ -32,4 +32,4 @@ featured: false
 
 **Citation**
 
-Yue, L., & Li, J. (2020). The current state of materialism research in China: A social network analysis based on CSSCI. *Frontiers in Chinese Psychology*, 2(5), 393–402. https://www.sciscanpub.com/index/journals/ainfo/pc/905.html
+Yue, L., & Li, J. (2020). Research status of materialism in China: Social network analysis based on CSSCI (in Chinese). *Frontiers in Chinese Psychology, 2*(5), 393–402. https://www.sciscanpub.com/index/journals/ainfo/pc/905.html

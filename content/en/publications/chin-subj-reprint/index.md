@@ -1,5 +1,5 @@
 ---
-title: "Profiling the Chinese Participants in Psychological Science: Non-WEIRD but Not Representative"
+title: "Profiling the Chinese participants in psychological science: Non-WEIRD but not representative"
 authors:
   - Lei Yue
   - Weiwei Zhang
@@ -41,4 +41,4 @@ links:
 
 **Citation**
 
-Yue, L., Zuo, X.-N., & Hu, C.-P. (2023) The WEIRD problem in a "non-WEIRD" context: A meta-research on the representativeness of human subjects in Chinese psychological research, in principle acceptance of Version 7 by Peer Community in Registered Reports. https://osf.io/ehw54
+Yue, L., Zhang, W.-W., Wang, C.-X., Zuo, X.-N., & Hu, C.-P. (in press, AMPPS). Profiling the Chinese participants in psychological science: Non-WEIRD but not representative. https://osf.io/preprints/psyarxiv/j8xgf_v6

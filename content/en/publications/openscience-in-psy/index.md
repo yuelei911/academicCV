@@ -37,4 +37,4 @@ links:
 
 **Citation**
 
-Yue, L., Zuo, X.-N., & Hu, C.-P. (2026). The grassroots path of open science practice: The cases of psychological and brain sciences. ChinaXiv. https://chinaxiv.org/abs/202605.00198
+Yue, L., Zuo, X.-N., & Hu, C.-P. (2026). The grassroots path of open science practice: The cases of psychological and brain sciences (in Chinese). ChinaXiv. https://chinaxiv.org/abs/202605.00198

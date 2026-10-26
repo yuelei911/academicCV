@@ -32,4 +32,4 @@ featured: false
 
 **引用格式**
 
-岳磊, 李静. (2020). 我国物质主义的研究现状：基于 CSSCI 的社会网络分析. *中国心理学前沿*, 2(5), 393–402. https://www.sciscanpub.com/index/journals/ainfo/pc/905.html
+岳磊, 李静. (2020). 我国物质主义的研究现状：基于 CSSCI 的社会网络分析. *中国心理学前沿, 2*(5), 393–402. https://www.sciscanpub.com/index/journals/ainfo/pc/905.html

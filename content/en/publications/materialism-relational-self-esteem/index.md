@@ -1,5 +1,5 @@
 ---
-title: "The Effect of Materialism on Relational Self-Esteem: The Mediating Role of Perceived Social Support"
+title: "Influence of materialism on relational self-esteem: Mediating role of perceived social support"
 authors:
   - me
   - Jiake Wu
@@ -41,4 +41,4 @@ featured: false
 
 **Citation**
 
-Yue, L., Wu, J., Wu, X., Xu, X., Deng, H., & Li, J. (2022). The effect of materialism on relational self-esteem: The mediating role of perceived social support. *Chinese Journal of Health Psychology*, 30(7), 1072–1075. https://doi.org/10.13342/j.cnki.cjhp.2022.07.023
+Yue, L., Wu, J., Wu, X., Xu, X., Deng, H., & Li, J. (2022). Influence of materialism on relational self-esteem: Mediating role of perceived social support (in Chinese). *Chinese Journal of Health Psychology, 30*(7), 1072–1075. https://doi.org/10.13342/j.cnki.cjhp.2022.07.023

@@ -1,5 +1,5 @@
 ---
-title: "A Bibliometric Analysis of *Applied Psychology* Since Its Inception"
+title: "Bibliometric analysis of Chinese journal of applied psychology from 1986 to 2020"
 authors:
   - me
   - Xingyu Du
@@ -36,7 +36,7 @@ links:
 
 **Citation**
 
-Yue, L., Du, X., Qiu, X., & Li, J. A bibliometric analysis of *Applied Psychology* since its inception. ChinaXiv. https://doi.org/10.12074/202103.00123V1
+Yue, L., Du, X., Qiu, X., & Li, J. Bibliometric analysis of Chinese journal of applied psychology from 1986 to 2020 (in Chinese). *ChinaXiv*. https://doi.org/10.12074/202103.00123V1
 
 **Note**
 

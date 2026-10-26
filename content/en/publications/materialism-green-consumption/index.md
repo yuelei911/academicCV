@@ -1,5 +1,5 @@
 ---
-title: "The Effect of Materialism on Green Consumption: Promotion or Inhibition?"
+title: "The impact of materialism on green consumption: Promotion or inhibition?"
 authors:
   - Jing Li
   - Xuyao Wu
@@ -37,4 +37,4 @@ featured: false
 
 **Citation**
 
-Li, J., Wu, X., Yue, L., Zeng, X., & Fang, Q. (2022). The effect of materialism on green consumption: Promotion or inhibition? *Advances in Psychological Science*, 30(6), 1191–1204. https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2022.01191
+Li, J., Wu, X., Yue, L., Zeng, X., & Fang, Q. (2022). The impact of materialism on green consumption: Promotion or inhibition? (in Chinese) *Advances in Psychological Science, 30*(6), 1191–1204. https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2022.01191
